@@ -1,0 +1,12 @@
+[2/8/2018 - 12:23:49] Ingreso a Index
+[2/8/2018 - 12:23:49] Ingreso a Ejecuto el View
+[2/8/2018 - 12:27:24] Ingreso a Index
+[2/8/2018 - 12:27:24] Ingreso a Ejecuto el View
+[2/8/2018 - 12:59:51] Ingreso a Index
+[2/8/2018 - 12:59:51] Ingreso a Ejecuto el View
+[2/8/2018 - 13:32:09] Entro en configuracion
+[2/8/2018 - 13:38:59] Entro en configuracion
+[2/8/2018 - 13:46:08] Entro en configuracion
+[2/8/2018 - 13:54:21] Ingreso a Index
+[2/8/2018 - 13:54:21] Ingreso a Ejecuto el View
+[2/8/2018 - 13:56:07] Entro en configuracion
